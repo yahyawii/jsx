@@ -3,10 +3,9 @@ import whatever from "./img/BIGO.jpg"
 
 function App() {
   return (
-    <div>
-      <>
-  style="border:solid 1px black;max-width:100vw"&gt;
-  <h1 className="title red">Your name here</h1>
+    <div style={{ border: "solid 1px black", maxWidth: "100vw" }}>
+    <>
+  <h1 className="title red">Assad</h1>
   <br />
   <img src="/aaaaaaaaa.png" />
   <br />
